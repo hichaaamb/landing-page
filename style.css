@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  text-decoration: none;
+}
+.footer {
+  background-color: #1f2937;
+  font-size: 48px;
+}
+.container-one h1 {
+  margin: 10px auto;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.list img {
+  border: 5px solid blue;
+  border-radius: 25%;
+}
+.list div {
+  margin: 0 auto;
+}
